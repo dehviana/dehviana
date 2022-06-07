@@ -22,12 +22,11 @@ Email: dehviana@gmail.com <br>
 Web <a href="http://alfv.com.br/">[http://alfv.com.br/](http://alfv.com.br/)</a> <br>
 Portfolio: <a href="https://www.behance.net/dehviana">https://www.behance.net/dehviana</a> <br>
 Videos: <a href="https://vimeo.com/dehviana">https://vimeo.com/dehviana</a><br>
-Git: <a href="https://github.com/dehviana ">https://github.com/dehviana </a><br>
 Giphys <a href="https://giphy.com/channel/monomonio">https://giphy.com/channel/monomonio</a><br>
 Twitter <a href="https://twitter.com/monomonio">https://twitter.com/monomonio</a><br>
 LinkedIn: <a href="http://br.linkedin.com/in/dehviana">http://br.linkedin.com/in/dehviana</a><br>
 Ethereum: <a href="http://andreviana.eth.xyz">andreviana.eth</a> <br>
-LinkedIn: <a href="http://monomonio.tez.page">monomonio.tez</a> 
+Tezos: <a href="http://monomonio.tez.page">monomonio.tez</a> 
 
 - 
 
