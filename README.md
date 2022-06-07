@@ -10,13 +10,19 @@ I Have formal education in Design (at UAM of São Paulo - Brasil),
 Audiovisual (UEM of Madrid - Spain) and a english summer
 class at the university of Liverpool. I continually motivated to perfect
 my skills and stay on top of the fast moving web world, 
-I am currently living in Lisbon, Portugal.
+I am currently living in Lisbon, Portugal.<br>
 
-🔭 I’m currently working on AltStreetDAO 
-🌱 I’m currently learning Web3 and Solidity
-🤔 I’m looking to collaborate on DAO's
+🔭 I’m currently working on AltStreetDAO <br>
+🌱 I’m currently learning Web3 and Solidity<br>
+🤔 I’m looking to collaborate on DAO's<br>
 
-📫 How to reach me:
+8+ years full-time experience with Web.<br>
+4+ years full-time experience with frontend development in React.<br>
+Strong understanding of React or alternative frontend framework.<br>
+Passion for blockchain technology, cryptoeconomic protocol design, or decentralized finance.<br>
+Ability to learn new tech and write secure and high quality code. <br>
+
+📫 How to reach me:<br>
 
 Email: dehviana@gmail.com <br>
 Web <a href="http://alfv.com.br/">[http://alfv.com.br/](http://alfv.com.br/)</a> <br>
